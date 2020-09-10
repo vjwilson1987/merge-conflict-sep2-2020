@@ -15,4 +15,9 @@ security patch()
  //security patch added
 }
 
+feature2()
+{
+ //f2 added
+}
+
 }
